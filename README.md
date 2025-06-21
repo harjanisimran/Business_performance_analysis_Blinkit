@@ -21,9 +21,9 @@ This project analyzes the business performance of **Blinkit**, an India-based in
 ---
 
 ##  Files:
-- `Blinkit_Analysis.ipynb` – Python notebook for data analysis  
-- `Blinkit_Report.pdf` – Executive summary of key insights  
-- `Blinkit_Dataset.csv` – Cleaned and processed dataset used for analysis  
+- `BLINKIT.pbix` – Python notebook for data analysis  
+- `Dashboard_Analysis.png` – Executive summary of key insights  
+- `BlinkIT Grocery Data` – Cleaned and processed dataset used for analysis  
 
 ---
 
