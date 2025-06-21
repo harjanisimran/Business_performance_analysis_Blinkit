@@ -19,7 +19,11 @@ This project analyzes the business performance of **Blinkit**, an India-based in
 - Maintained focus on customer satisfaction (average 4.0 rating) and transaction value ($141)
 
 ---
+##  Live Dashboard:
+ [Click here to view the Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=897c7e72-c5a7-4653-969f-873ede324905&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93)  
+*(Best viewed on desktop)*
 
+---
 ##  Files:
 - `BLINKIT.pbix` – Python notebook for data analysis  
 - `Dashboard_Analysis.png` – Executive summary of key insights  
