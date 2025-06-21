@@ -25,21 +25,18 @@ This project analyzes the business performance of **Blinkit**, an India-based in
 
 ---
 ##  Files:
-- `BLINKIT.pbix` – Python notebook for data analysis  
-- `Dashboard_Analysis.png` – Executive summary of key insights  
-- `BlinkIT Grocery Data` – Cleaned and processed dataset used for analysis  
+- `BLINKIT.pbix` – Interactive Power BI dashboard file used for data visualization  
+- `Dashboard_Analysis.png` – Snapshot image of the main dashboard with key insights  
+- `BlinkIT_Grocery_Data.csv` – Cleaned and processed dataset used for business performance analysis   
 
 ---
 
 ## Requirements:
-- Python 3.x  
-- Libraries:
-  - `pandas`  
-  - `numpy`  
-  - `matplotlib`  
-  - `seaborn`  
-  - `plotly`  
-  - `powerbiclient` (optional, for integration)
+
+- **Tool Used:** Microsoft Power BI  
+- **No coding or external libraries were used.**  
+- All data cleaning, transformation, and visualization were performed directly within Power BI using Power Query and DAX.
+
 
 ---
 
